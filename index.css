@@ -27,10 +27,13 @@ p {
 background-image: url(image-omelette.jpeg);
 background-size: cover;
 background-position: center;
-width: 660px;
+width: 94%;
 height: 300px;
 margin: 20px;
 border-radius: 10px;
+}
+.steps ,.inter{
+    width: 94%;
 }
 .steps .recipe-title {
   
@@ -59,7 +62,7 @@ border-radius: 10px;
     background-color: hsl(330, 100%, 98%);
     border-radius: 10px;
     margin: 0 20px;
-    width: 660px;
+    width: 94%;
    
 
 }
@@ -107,14 +110,5 @@ padding-top: 10px;
     text-align: center;
     position: absolute;
     left: 350px;
-    
-}
-@media screen and (max-width:320px) {
-    body{
-        width:200px;
-    }
-    .food-img{
-        width:180px;
-    }
     
 }
