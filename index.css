@@ -21,6 +21,7 @@ p {
     border-radius: 20px;
     height: 100%;
     padding-bottom: 30px;
+    margin: 100px 0;
 
 
 }
@@ -67,7 +68,8 @@ border-radius: 10px;
     font-family: "Young Serif";
     background-color: hsl(330, 100%, 98%);
     border-radius: 10px;
-    margin: 0 20px;
+    margin: 20px 20px;
+    padding: 20px 0;
     width: 96%;
    
 
@@ -86,7 +88,7 @@ h2{
     font-family: "Young serif";
     color: hsl(14, 45%, 36%);
     font-weight: lighter;
-    font-size: 1.75rem;
+    font-size: 2rem;
 
 }
 hr {
