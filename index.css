@@ -109,3 +109,12 @@ padding-top: 10px;
     left: 350px;
     
 }
+@media screen and (max-width:320px) {
+    body{
+        width:200px;
+    }
+    .food-img{
+        width:180px;
+    }
+    
+}
