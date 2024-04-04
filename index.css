@@ -16,11 +16,12 @@ p {
     margin: 0 30px;
 }
 .contiuner {
-    width: 700px;
+    width: 750px;
     background-color: white;
     border-radius: 20px;
     height: 100%;
     padding-bottom: 30px;
+
 
 }
 .food-img{
@@ -33,7 +34,7 @@ margin: 20px;
 border-radius: 10px;
 }
 .steps ,.inter{
-    width: 94%;
+    width: 96%;
 }
 .steps .recipe-title {
   
@@ -62,7 +63,7 @@ border-radius: 10px;
     background-color: hsl(330, 100%, 98%);
     border-radius: 10px;
     margin: 0 20px;
-    width: 94%;
+    width: 96%;
    
 
 }
