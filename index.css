@@ -81,7 +81,7 @@ h2{
 hr {
     width: 640px;
    margin-top: 20px;
-    color:  hsl(30, 18%, 87%);
+    color:  hsl(30, 18%, 87%,.4);
 }
 .inter {
    position: relative;
