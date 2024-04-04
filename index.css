@@ -85,6 +85,8 @@ span {
 h2{
     font-family: "Young serif";
     color: hsl(14, 45%, 36%);
+    font-weight: lighter;
+    font-size: 1.75rem;
 
 }
 hr {
